@@ -4,4 +4,5 @@
   (lib (name "MLX90632")(type "KiCad")(uri "${KIPRJMOD}/models/MLX90632")(options "")(descr ""))
   (lib (name "BQ298009RUGR")(type "KiCad")(uri "${KIPRJMOD}/models/BQ298009RUGR")(options "")(descr ""))
   (lib (name "SC4626ZSKTRT")(type "KiCad")(uri "${KIPRJMOD}/models/SC4626ZSKTRT")(options "")(descr ""))
+  (lib (name "PESD5V0S1UL,315")(type "KiCad")(uri "${KIPRJMOD}/models/PESD5V0S1UL,315")(options "")(descr ""))
 )

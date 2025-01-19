@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD5V0S1UL,315
+D NXP PESD5V0S1UL,315, Uni-Directional TVS Diode, 150W, 2-Pin SOD-882
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD5V0S1UL.pdf
+$ENDCMP
+#
+#End Doc Library
