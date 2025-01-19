@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ298009RUGR
+D Battery Management High-side protector for single-cell li-ion and li-polymer batteries 8-X2QFN -40 to 85
+K
+F https://www.ti.com/lit/ds/symlink/bq2980.pdf?ts=1632003997879&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DBQ298009RUGR
+$ENDCMP
+#
+#End Doc Library

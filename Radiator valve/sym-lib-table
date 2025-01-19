@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "53047-0410")(type "KiCad")(uri "${KIPRJMOD}/models/53047-0410/53047-0410.kicad_sym")(options "")(descr ""))
   (lib (name "MLX90632SLD-BCB-000-SP")(type "KiCad")(uri "${KIPRJMOD}/models/MLX90632/MLX90632SLD-BCB-000-SP.kicad_sym")(options "")(descr ""))
+  (lib (name "BQ298009RUGR")(type "KiCad")(uri "${KIPRJMOD}/models/BQ298009RUGR/BQ298009RUGR.kicad_sym")(options "")(descr ""))
+  (lib (name "SC4626ZSKTRT")(type "KiCad")(uri "${KIPRJMOD}/models/SC4626ZSKTRT/SC4626ZSKTRT.kicad_sym")(options "")(descr ""))
 )
