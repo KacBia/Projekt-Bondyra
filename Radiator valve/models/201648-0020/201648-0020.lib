@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 201648-0020
+#/1533947/1323776/2.50/3/3/Connector
+DEF 201648-0020 J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "201648-0020" 750 200 50 H V L CNN
+F2 "2016480020" 750 100 50 H I L CNN
+F3 "https://www.molex.com/pdm_docs/sd/2016480020_sd.pdf" 750 0 50 H I L CNN
+F4 "Molex, 201648, 2 Way, 1 Row, Vertical PCB Header" 750 -100 50 H I L CNN "Description"
+F5 "9.2" 750 -200 50 H I L CNN "Height"
+F6 "538-201648-0020" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Molex/201648-0020?qs=f9yNj16SXrJE7eI7xb%2F8%2Fw%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Molex" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "201648-0020" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 900 0 200 L 50 50 0 0 P
+X 2 2 900 -100 200 L 50 50 0 0 P
+X MP1 MP1 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

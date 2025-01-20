@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 201648-0020
+D Molex, 201648, 2 Way, 1 Row, Vertical PCB Header
+K
+F https://www.molex.com/pdm_docs/sd/2016480020_sd.pdf
+$ENDCMP
+#
+#End Doc Library
